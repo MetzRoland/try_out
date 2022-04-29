@@ -1,1 +1,3 @@
-print("hello roland2")
+name = "Roland"
+
+print(f"hello {name}")
